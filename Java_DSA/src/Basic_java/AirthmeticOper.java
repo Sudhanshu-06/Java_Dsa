@@ -12,5 +12,14 @@ public class AirthmeticOper {
         double a = 39;
         double b = 10;
         System.out.println(a/b);
+
+//        modulus operator gives remainder
+
+        int c= 6;
+        int d= 4;
+        int e= c%d;
+        System.out.println(e);
+
+
     }
 }
