@@ -1,6 +1,6 @@
 package Assignment_2;
 
-public class Program_5 {
+public class Problem_5 {
     public static void main(String[] args) {
         int num = 987;
         int rem =0,sum=0;

@@ -1,6 +1,6 @@
 package Assignment_2;
 
-public class Program_4 {
+public class Problem_4 {
     public static void main(String[] args) {
         int a= 50;
         int b= 80;
